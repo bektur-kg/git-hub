@@ -1,4 +1,4 @@
-import React, {useState, MouseEvent} from 'react'
+import React, {useState} from 'react'
 import {IRepo} from 'models/models'
 import {useAppSelector} from 'hooks/useRedux'
 import {useReduxActions} from 'hooks/useActions'
