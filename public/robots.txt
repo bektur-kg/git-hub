@@ -3,3 +3,4 @@ User-agent: *
 Disallow: /
 Disallow: /sitemap.txt
 Disallow: /favorites
+Sitemap: /sitemap.txt
